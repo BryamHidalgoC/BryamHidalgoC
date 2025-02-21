@@ -27,7 +27,9 @@ hora de tener que aprender nuevas tecnologías para la realización de alguna ta
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 
+## Trabajo actualmente con:
 
+![Universidad de Manizales](/BryamHidalgoC/logo-umanizales.png "Universidad de Manizales")
 
 
 
