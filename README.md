@@ -29,7 +29,7 @@ hora de tener que aprender nuevas tecnologías para la realización de alguna ta
 
 ## Trabajo actualmente con:
 
-![Universidad de Manizales](/BryamHidalgoC/logo-umanizales.png "Universidad de Manizales")
+<img src="logo-umanizales.png" alt="Mi trabajo :D">
 
 
 
